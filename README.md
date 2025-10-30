@@ -6,12 +6,12 @@ Node.js projeleriniz için kullanışlı CLI araçları koleksiyonu.
 
 ### Global kurulum (önerilen)
 ```bash
-npm install -g oraksoft-node-tools
+pnpm install -g oraksoft-node-tools
 ```
 
 ### Proje bazında kurulum
 ```bash
-npm install oraksoft-node-tools --save-dev
+pnpm install oraksoft-node-tools --save-dev
 ```
 
 ## Komutlar

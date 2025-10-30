@@ -1,6 +1,6 @@
 {
   "name": "oraksoft-node-tools",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "CLI araçları koleksiyonu - fi-copy-deps, fi-deploy-ftp, fi-deploy-zip ve fi-env-change komutları",
   "main": "lib/index.js",
   "type": "module",
